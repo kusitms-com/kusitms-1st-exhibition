@@ -9,6 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
+        'clash-display': ['Clash Display', 'sans-serif'],
         pretendard: ['Pretendard', 'sans-serif'],
       },
       colors: {
