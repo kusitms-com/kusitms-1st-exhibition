@@ -25,17 +25,17 @@ export default function Home() {
       </div>
       <div className="mt-8 flex flex-col items-center">
         <div className="flex items-center gap-6">
-          <div className="w-[100px]">
+          <div className="w-[80px]">
             <img src="/images/partners/kusitms.svg" alt="큐시즘 로고" />
           </div>
-          <div className="w-[100px]">
+          <div className="w-[80px]">
             <img
               src="/images/partners/sangsanguniv.svg"
               alt="상상유니브 로고"
               className="-mt-2"
             />
           </div>
-          <div className="w-[100px]">
+          <div className="w-[80px]">
             <img
               src="/images/partners/asan-nanum.svg"
               alt="아산나눔재단 로고"
@@ -43,10 +43,10 @@ export default function Home() {
           </div>
         </div>
         <div className="mt-6 flex items-center gap-6">
-          <div className="w-[80px]">
+          <div className="w-[60px]">
             <img src="/images/partners/d-camp.svg" alt="디캠프 로고" />
           </div>
-          <div className="-mt-1 w-[60px]">
+          <div className="-mt-1 w-[50px]">
             <img src="/images/partners/codeit.svg" alt="코드잇 로고" />
           </div>
         </div>
