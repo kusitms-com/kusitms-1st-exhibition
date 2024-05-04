@@ -13,7 +13,7 @@ export default function Home() {
         <br />
         58, HANGANG-DAERO,YONGSAN-GU, SEOUL
       </p>
-      <div className="mt-8 flex w-[calc(100vw-40px)]">
+      <div className="-ml-4 mt-8 flex w-[calc(100vw-(100vw-100%)+24px)]">
         <div className="relative right-0 w-[900px]">
           <div className="h-[450px]" />
           <img
