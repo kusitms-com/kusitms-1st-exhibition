@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="mb-8 px-6">
-      <h1 className="mt-16 flex flex-col items-center">
+      <h1 className="mt-12 flex flex-col items-center">
         <span className="text-lg">KUSITMS 1st EXHIBITION</span>
         <strong className="font-clash-display text-4xl">ENGAGE ENERGY</strong>
       </h1>
@@ -19,11 +19,11 @@ export default function Home() {
           <img
             src="/images/circle-designs/circle-design.svg"
             alt="원형 디자인"
-            className="object-fit absolute right-0 top-0 w-[900px] max-w-[900px] object-right"
+            className="object-fit absolute right-0 top-0 z-[-1] w-[900px] max-w-[900px] object-right"
           />
         </div>
       </div>
-      <div className="mt-8 flex flex-col items-center">
+      <div className="mt-12 flex flex-col items-center">
         <div className="flex items-center gap-6">
           <div className="w-[80px]">
             <img src="/images/partners/kusitms.svg" alt="큐시즘 로고" />
